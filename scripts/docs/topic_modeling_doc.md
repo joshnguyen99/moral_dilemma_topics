@@ -1,5 +1,7 @@
 # Topic modeling: Latent Dirichlet Allocation and Nonnegative Matrix Factorization
 
+All `.pkl` below can be downloaded from Zenodo with the following DOI: https://doi.org/10.5281/zenodo.6791835.
+
 ## Latent Dirichlet Allocation
 
 The topic model we used is LDA on the bag-of-words embedding. Since some clusters have been discarded (we call them the *other* topics), and some clusters are merged together, we have 48 topics left, including 47 *named* topics and 1 *other* topic.

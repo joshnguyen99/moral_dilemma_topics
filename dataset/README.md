@@ -2,9 +2,7 @@
 
 ## Download the dataset
 
-You can download the dataset from Zenodo with the following DOI:
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6791836.svg)](https://doi.org/10.5281/zenodo.6791836)
+You can download the dataset from Zenodo with the following DOI: https://doi.org/10.5281/zenodo.6791835.
 
 Download the `reddit.gz` file to your computer, e.g., to `~/Downloads`.
 
