@@ -1,4 +1,5 @@
 docopt==0.6.2
+empath==0.89
 h5py==2.10.0
 joblib==1.0.1
 kaleido==0.2.1
@@ -11,7 +12,7 @@ praw==7.5.0
 ptvsd==4.3.2
 pymongo==3.11.2
 schema==0.7.5
-scikit_learn==1.0.2
+scikit_learn==0.23.2
 scipy==1.7.2
 seaborn==0.11.1
 sentence_transformers==0.4.1.2
