@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Topic modeling
 
-We use two topic models, Latent Dirichlet Allocation and Nonnegative Matrix Factorization. To use then, first `cd` to `scripts`. The instructions for each model can be found in [`docs/topic_modeling_doc.md`](docs/topic_modeling_doc.md).
+We use two topic models, Latent Dirichlet Allocation and Nonnegative Matrix Factorization. To use then, first `cd` to `scripts`. The documentation can be found in that folder.
 
 ## Citation
 
