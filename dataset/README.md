@@ -43,7 +43,7 @@ First start my making a connection through a client:
 >>>
 >>> # Change these values if you have done it above
 >>> HOST, PORT = "localhost", 27017
->>> client = MongoClient(host=Host, port=PORT)
+>>> client = MongoClient(host=HOST, port=PORT)
 >>>
 >>> # The database is called reddit
 >>> db = client.reddit
