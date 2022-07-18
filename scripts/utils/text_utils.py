@@ -48,7 +48,7 @@ try:
 except Exception:
     import os
     os.system("python3 -m spacy download en_core_web_md")
-    nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
+    nlp = spacy.load("en_core_web_md", disable=["parser", "ner"])
 
 
 def tokenize(text="", allowed_pos_tags=["NOUN", "VERB", "ADJ", "ADP"]):
@@ -74,8 +74,6 @@ def process_text(text=""):
         text: a string
     Return: a list of tokens
     """
-    # Expand any short form
-    # text = expand_contractions(text)
     # Tokenize and lemmatize
     tokens = tokenize(text)
     # Remove stop words
