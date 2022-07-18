@@ -14,6 +14,9 @@ We will be using Anaconda for setting up a virtual environment.
 # Create a new environment
 conda create --name icwsm2022 python=3.8.5
 
+# Activate the environment
+conda activate icwsm2022
+
 # Install packages and dependencies
 pip install -r requirements.txt
 ```
