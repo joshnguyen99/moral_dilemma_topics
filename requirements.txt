@@ -1,7 +1,7 @@
 docopt==0.6.2
 empath==0.89
 h5py==2.10.0
-joblib==1.0.1
+joblib==1.2.0
 kaleido==0.2.1
 matplotlib==3.3.4
 nltk==3.6.1
